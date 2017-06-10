@@ -1,2 +1,2 @@
 Download .apk file (BETA):
-https://drive.google.com/file/d/0Bz5QZ5riTX01S3NYTlUzWW5MVkk/view?usp=sharing
+https://drive.google.com/open?id=0Bz5QZ5riTX01ZmFCb3hLV0c5aWc
