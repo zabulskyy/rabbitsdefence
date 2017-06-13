@@ -5,4 +5,4 @@ youtu.be/Ie0DzbY9XRA
 Rabbits Defence or goo.gl/kFbuVX
 
 # Controller manual
-![alt text](http://manual.png)
+![manual](manual.png?raw=true "Manual")
