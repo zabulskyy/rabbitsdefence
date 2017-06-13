@@ -176,9 +176,13 @@ class Ray:
         if self.b < 0:
             return "y = " + str(self.k) + " x - " + str(abs(self.b)) +\
             " (" + str(self._start_p) + ", " + str(self._end_p) + ")"
-        else:
+        elif self.b > 0:
             return "y = " + str(self.k) + " x + " + str(self.b) + " (" +\
             str(self._start_p) + ", " + str(self._end_p) + ")"
+        else:
+            return "y = " + str(self.k) + " x (" + \
+            str(self._start_p) + ", " + str(self._end_p) + ")"
+        
         
         
         
@@ -257,4 +261,5 @@ class Ray:
         x, y = Point.get_coords(point)
         self._end_p = Point(x, y)
         self._set_equatation()
+
         
