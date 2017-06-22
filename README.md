@@ -1,11 +1,11 @@
 # Trailer:
-youtu.be/Ie0DzbY9XRA
+https://youtu.be/5gljZRxojDc
 
 # Available on Play Market:
-goo.gl/kFbuVX
+https://goo.gl/kFbuVX
 
 # Download via Dropbox if you have some issues:
-goo.gl/1tHXaX
+https://goo.gl/1tHXaX
 
 # Controller manual
 ![manual](manual.png?raw=true "Manual")
